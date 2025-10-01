@@ -33,7 +33,7 @@ $(document).ready(function() {
                 const alertContainer = $('#alert-container');
                 alertContainer.html(`
                     <div class="alert alert-danger" role="alert">
-                        Por favor diligencie todos los campos
+                        Por favor complete diligencie todos los campos
                     </div>
                 `);
             
